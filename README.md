@@ -29,7 +29,3 @@ Welcome to **Igourmet**, the ultimate destination for premium cheeses, cured mea
 
 ---
 
-## 🤝 Acknowledgments
-
-- Special thanks to **Hack Academy** for providing the learning resources and the opportunity to build this project.
-- Big shoutout to **React** and **Node.js** communities for their awesome frameworks and libraries that made this project possible.
